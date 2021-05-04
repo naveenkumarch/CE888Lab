@@ -1,0 +1,1 @@
+Github lInk for lab 10 ;https://github.com/naveenkumarch/flask_ML_model
